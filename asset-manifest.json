@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShipperReact/static/css/main.e6c13ad2.css",
+    "main.js": "/ShipperReact/static/js/main.eb14f4e7.js",
+    "static/js/787.4eab6a7f.chunk.js": "/ShipperReact/static/js/787.4eab6a7f.chunk.js",
+    "index.html": "/ShipperReact/index.html",
+    "main.e6c13ad2.css.map": "/ShipperReact/static/css/main.e6c13ad2.css.map",
+    "main.eb14f4e7.js.map": "/ShipperReact/static/js/main.eb14f4e7.js.map",
+    "787.4eab6a7f.chunk.js.map": "/ShipperReact/static/js/787.4eab6a7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eb14f4e7.js"
+  ]
+}
